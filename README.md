@@ -27,5 +27,12 @@ $ cd project/
 $ pip install -r requirements.txt
 ```
 
+Usage
+-------------
 
-TBC
+```
+$ cd proxy
+$ scrapy crawl proxy_spider
+```
+
+# Results stored in `proxydb` sqlite file
